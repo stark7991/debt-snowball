@@ -7,8 +7,9 @@ function App() {
   const [debts, setDebts] = useState([]);
 
   const addDebt = (debt) => {
-    setDebts([...debts, debt]);
+    setDebts((prevDebts) => [...prevDebts, debt]);
   };
+
   return (
     <div className="min-h-screen bg-green-900 text-white flex flex-col items-center p-4">
         <h1 className="text-4xl text-orange-100 font-bold mt-8">The Debt Snowball</h1>
