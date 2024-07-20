@@ -52,7 +52,7 @@ function DebtSnowball({ debts }) {
 
   return (
     <div>
-      <h2 className="text-2xl font-bold mt-4">Debt Snowball Plan</h2>
+      <h2 className="text-2xl text-orange-100 font-bold mt-4">Debt Snowball Plan</h2>
       <ol className="list-decimal list-inside mt-2">
         {snowballPlan.map((debt, index) => (
           <li key={index}>
