@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/debt-snowball/static/css/main.85726f3b.css",
+    "main.js": "/debt-snowball/static/js/main.06aa320f.js",
+    "static/js/453.17731548.chunk.js": "/debt-snowball/static/js/453.17731548.chunk.js",
+    "index.html": "/debt-snowball/index.html",
+    "main.85726f3b.css.map": "/debt-snowball/static/css/main.85726f3b.css.map",
+    "main.06aa320f.js.map": "/debt-snowball/static/js/main.06aa320f.js.map",
+    "453.17731548.chunk.js.map": "/debt-snowball/static/js/453.17731548.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85726f3b.css",
+    "static/js/main.06aa320f.js"
+  ]
+}
