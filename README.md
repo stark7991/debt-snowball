@@ -2,6 +2,10 @@
 
 The **Debt Snowball Calculator** is a web-based application designed to help users manage and pay off their debts using the debt snowball method. Users can input their debt amounts, and the app will provide a detailed timeline showing when they will be debt-free. The debt snowball method prioritizes paying off debts from smallest to largest, helping users gain momentum and stay motivated as they eliminate their debt.
 
+## Live Demo
+
+Check out the live version of the app here: [Debt Snowball Calculator](https://kaleidoscopic-cat-3f15f6.netlify.app/)
+
 ## Features
 
 - **Debt Input**: Users can enter multiple debts including balances and minimum payments.
